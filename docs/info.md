@@ -9,11 +9,10 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+one bit alu for tinytape out
 
 ## How to test
-
-Explain how to use your project
+one bit alu design using wokwi 
 
 ## External hardware
 
